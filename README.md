@@ -1,6 +1,10 @@
-# DHT22_SSD1306
 
-This library allows for easy interfacing with a DHT22 temperature and humidity sensor and displays the readings on an SSD1306 OLED display.
+# DHT22_SSD1306
+Created by:
+1. Anggito Muhammad Amien 22/498140/TK/54627
+2. Hanifah Putri Ariani (22/504042/TK/55111)
+   
+This library allows for easy interfacing with a DHT22 temperature and humidity sensor and displays the readings on an SSD1306 OLED display. This library also provide precompiled file for esp32
 
 ## Installation
 
